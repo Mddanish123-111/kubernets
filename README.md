@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kubernetes in One Shot
 
 This README is a comprehensive guide for "Kubernetes in One Shot." It contains categorized commands from your history, structured by core Kubernetes topics. Each command is briefly described for ease of understanding and use.
@@ -259,3 +260,6 @@ This README is a comprehensive guide for "Kubernetes in One Shot." It contains c
 4. **Monitoring:** [K8s Voting App](https://github.com/LondheShubham153/k8s-kind-voting-app)  
    Implement monitoring with Prometheus and Grafana for a voting app.
 
+=======
+# kubernets
+>>>>>>> 2071d5e2bfb67db79c730ca545eaa69d766c9072
